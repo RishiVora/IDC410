@@ -1,0 +1,1 @@
+This repository contains my code for Assignments given as a part of IDC410 - Machine Learning. The files are in the respective folders and named `x.ipynb` where `x` is the respective assignment number.
